@@ -14,7 +14,7 @@ import { UilUsdSquare, UilMoneyWithdrawal } from "@iconscout/react-unicons";
 export const SidebarData = [
   {
     icon: UilEstate,
-    heading: "Dashboard", 
+    heading: "Dashboard",
     path:"/"
   },
 
