@@ -47,12 +47,8 @@ const Sidebar = () => {
             <a href={item.path}  style={{textDecoration:"none"}} > 
               <item.icon />
               <span>{item.heading}</span>
-              
-            </a>
-         
-          
-
-            </div>
+              </a>
+         </div>
            
           );
         })}

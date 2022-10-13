@@ -4,11 +4,9 @@ import {
   UilClipboardAlt,
   UilUsersAlt,
   UilPackage,
-  // UilChart,
-  // UilSignOutAlt,
+  
 } from "@iconscout/react-unicons";
 
-// Analytics Cards imports
 import { UilUsdSquare, UilMoneyWithdrawal } from "@iconscout/react-unicons";
 
 
@@ -38,7 +36,6 @@ export const SidebarData = [
  
 ];
 
-// Analytics Cards Data
 export const cardsData = [
   {
     title: "Blood Requests",
